@@ -4,6 +4,9 @@ Building a Modern  data warehouse with SQL Server, ETL processes, Data modeling,
 Welcome to the Data Warehouse and Analytics Project repository! 🚀
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
+Tools used -- 
+1) Draw.io (for data warehouse Architecture, Data Flow Visualization, and Relationship of fact and dimensions using tables)
+2) Server Management Studio (SSMS)- to efficiently manage, query, and visualize data transformations across the Bronze, Silver, and Gold layers within the data warehouse and execute the ETL workflow.
 ![image](https://github.com/user-attachments/assets/1033ed2e-bf4a-4983-bfee-7340e5fba23f)
 
 
